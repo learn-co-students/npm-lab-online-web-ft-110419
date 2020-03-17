@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Parse, validate, manipulate, and display dates and times in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello, World!'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
