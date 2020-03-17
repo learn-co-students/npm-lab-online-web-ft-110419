@@ -1,0 +1,22 @@
+{
+  "name": "npm-lab-online-web-ft-110419",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cejimenez0123/npm-lab-online-web-ft-110419.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cejimenez0123/npm-lab-online-web-ft-110419/issues"
+  },
+  "homepage": "https://github.com/cejimenez0123/npm-lab-online-web-ft-110419#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
