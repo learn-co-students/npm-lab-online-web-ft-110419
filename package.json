@@ -1,0 +1,14 @@
+{
+  "name": "npm-lab-online-web-ft-110419",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:robotspacefish/npm-lab-online-web-ft-110419.git",
+  "author": "robotspacefish <9095316+robotspacefish@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
